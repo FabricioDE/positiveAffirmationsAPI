@@ -22,9 +22,6 @@ git clone https://github.com/FabricioDE/positiveAffirmationsAPI.git
 
 cd .\positiveAffirmationsAPI\
 
-This application is still in the development stage, so you need to change the local branch with this command:
-
-git checkout develop
 
 Now that you have everything you need, is just build and run the Docker container. You can do this with:
 
